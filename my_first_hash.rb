@@ -2,8 +2,7 @@ def my_hash {
   "my_name" => "Ryan", 
   "my_age" => 27, 
   "my_sex" => "male"
-  
-}
+  }
 
   
 end
